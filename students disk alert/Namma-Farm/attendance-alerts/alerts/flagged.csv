@@ -1,9 +1,0 @@
-name,tier,tier_pct,overall_pct,days_present,excused,unexcused,total_missed,consecutive_absent_max,trend,flags
-Noah Williams,Critical,53.3,53.3,16,0,14,14,4,Declining,3+ days in a row; Declining
-Marcus Vance,Critical,60.0,60.0,18,0,12,12,2,Steady,None
-Sophia Chen,At risk,80.0,80.0,24,0,6,6,1,Steady,None
-Isabella Kim,At risk,86.7,70.0,21,5,4,9,2,Improving,None
-Olivia Martinez,Watch,90.0,90.0,27,0,3,3,2,Improving,None
-Liam Rodriguez,Watch,93.3,90.0,27,1,2,3,1,Steady,None
-Aaliyah Patel,On track,96.7,93.3,28,1,1,2,1,Declining,Declining
-Jordan Miller,On track,100.0,90.0,27,3,0,3,3,Improving,3+ days in a row
